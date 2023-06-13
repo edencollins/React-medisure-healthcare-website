@@ -19,8 +19,3 @@ Users will able to:
 - Bootstrap
 - HTML
 - CSS
-
-### Links
-
-- Live Site: [Medisure](https://medisure-healthcare.web.app/)
-- Code: [Github](https://github.com/arifulsajib/Medisure-healthcare-website)
